@@ -1,0 +1,9 @@
+to run:
+
+python answer1.py
+python answer2.py
+python answer3.py
+python q4.py
+python 5a.py
+python 5c.py
+python ques7.py

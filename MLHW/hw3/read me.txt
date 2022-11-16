@@ -1,0 +1,8 @@
+1.python answer1.py
+2.answer2.py
+3 - for analysis I have done seperately for each classifer
+    python perceptronanalysis.py
+    python linearsvmanalysis.py
+    python rbfanalysis.py
+    python dtreeanalysis.py
+--> you can run like wise for each question in command line, In IDE you can just hit run
